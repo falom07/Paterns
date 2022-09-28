@@ -1,7 +1,7 @@
 package ChainOfResponsibility;
 
 public abstract class ImplementOfOrder {
-    int prioritate;
+    int prioritate;//hi
     public ImplementOfOrder(int prioritate){
         this.prioritate = prioritate;
     }
